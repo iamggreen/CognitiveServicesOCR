@@ -102,7 +102,7 @@ namespace HackathonPOC
 
         static void CopyImage(string imageFilePath)
         {
-            File.Copy(imageFilePath, Path.Combine(outputDirectory, $"Image.{Path.GetExtension(imageFilePath)}"), true);
+            File.Copy(imageFilePath, Path.Combine(outputDirectory, $"Image{Path.GetExtension(imageFilePath)}"), true);
         }
 
         static void WriteJsonToFile(string json)
