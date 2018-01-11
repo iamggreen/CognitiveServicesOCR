@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackathonPOC", "HackathonPOC\HackathonPOC.csproj", "{4E41E721-4376-477C-A3A9-3A9C4D47EF6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Git", "Git", "{B4BF376C-097C-4A93-A0B7-04A1405CBF93}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E41E721-4376-477C-A3A9-3A9C4D47EF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E41E721-4376-477C-A3A9-3A9C4D47EF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E41E721-4376-477C-A3A9-3A9C4D47EF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E41E721-4376-477C-A3A9-3A9C4D47EF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF24BE54-6259-4D0B-B50D-477DFC3EC853}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1372 @@
+{
+  "language": "en",
+  "textAngle": 0.0,
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "47,36,526,451",
+      "lines": [
+        {
+          "boundingBox": "308,36,265,15",
+          "words": [
+            {
+              "boundingBox": "308,39,9,9",
+              "text": "a"
+            },
+            {
+              "boundingBox": "327,36,82,15",
+              "text": "Employee's"
+            },
+            {
+              "boundingBox": "413,36,40,12",
+              "text": "social"
+            },
+            {
+              "boundingBox": "459,36,55,15",
+              "text": "security"
+            },
+            {
+              "boundingBox": "519,36,54,12",
+              "text": "number"
+            }
+          ]
+        },
+        {
+          "boundingBox": "356,53,152,21",
+          "words": [
+            {
+              "boundingBox": "356,53,152,21",
+              "text": "123-45-6789"
+            }
+          ]
+        },
+        {
+          "boundingBox": "47,90,277,16",
+          "words": [
+            {
+              "boundingBox": "47,90,9,12",
+              "text": "b"
+            },
+            {
+              "boundingBox": "66,90,67,16",
+              "text": "Employer"
+            },
+            {
+              "boundingBox": "137,90,90,12",
+              "text": "identification"
+            },
+            {
+              "boundingBox": "232,90,55,12",
+              "text": "number"
+            },
+            {
+              "boundingBox": "291,90,33,15",
+              "text": "(EIN)"
+            }
+          ]
+        },
+        {
+          "boundingBox": "400,103,140,21",
+          "words": [
+            {
+              "boundingBox": "400,103,140,21",
+              "text": "11-2233445"
+            }
+          ]
+        },
+        {
+          "boundingBox": "47,145,311,15",
+          "words": [
+            {
+              "boundingBox": "47,148,9,9",
+              "text": "c"
+            },
+            {
+              "boundingBox": "65,145,79,15",
+              "text": "Employer's"
+            },
+            {
+              "boundingBox": "149,148,43,11",
+              "text": "name,"
+            },
+            {
+              "boundingBox": "197,145,60,14",
+              "text": "address,"
+            },
+            {
+              "boundingBox": "263,145,26,13",
+              "text": "and"
+            },
+            {
+              "boundingBox": "294,145,24,12",
+              "text": "ZIP"
+            },
+            {
+              "boundingBox": "322,145,36,12",
+              "text": "code"
+            }
+          ]
+        },
+        {
+          "boundingBox": "159,186,218,27",
+          "words": [
+            {
+              "boundingBox": "159,187,46,21",
+              "text": "The"
+            },
+            {
+              "boundingBox": "215,187,37,26",
+              "text": "Big"
+            },
+            {
+              "boundingBox": "261,186,116,27",
+              "text": "Company"
+            }
+          ]
+        },
+        {
+          "boundingBox": "161,218,190,22",
+          "words": [
+            {
+              "boundingBox": "161,219,43,21",
+              "text": "123"
+            },
+            {
+              "boundingBox": "214,219,56,21",
+              "text": "Main"
+            },
+            {
+              "boundingBox": "280,218,71,22",
+              "text": "Street"
+            }
+          ]
+        },
+        {
+          "boundingBox": "160,251,251,26",
+          "words": [
+            {
+              "boundingBox": "160,251,126,26",
+              "text": "Anywhere,"
+            },
+            {
+              "boundingBox": "297,251,33,20",
+              "text": "PA"
+            },
+            {
+              "boundingBox": "338,251,73,21",
+              "text": "12345"
+            }
+          ]
+        },
+        {
+          "boundingBox": "47,308,130,12",
+          "words": [
+            {
+              "boundingBox": "47,308,9,12",
+              "text": "d"
+            },
+            {
+              "boundingBox": "66,308,51,12",
+              "text": "Control"
+            },
+            {
+              "boundingBox": "123,308,54,12",
+              "text": "number"
+            }
+          ]
+        },
+        {
+          "boundingBox": "47,363,356,16",
+          "words": [
+            {
+              "boundingBox": "47,366,9,9",
+              "text": "e"
+            },
+            {
+              "boundingBox": "65,363,82,16",
+              "text": "Employee's"
+            },
+            {
+              "boundingBox": "152,363,26,12",
+              "text": "first"
+            },
+            {
+              "boundingBox": "183,366,39,9",
+              "text": "name"
+            },
+            {
+              "boundingBox": "227,363,25,12",
+              "text": "and"
+            },
+            {
+              "boundingBox": "258,363,36,12",
+              "text": "initial"
+            },
+            {
+              "boundingBox": "329,363,30,12",
+              "text": "Last"
+            },
+            {
+              "boundingBox": "364,366,39,9",
+              "text": "name"
+            }
+          ]
+        },
+        {
+          "boundingBox": "159,397,185,22",
+          "words": [
+            {
+              "boundingBox": "159,398,84,21",
+              "text": "JaneA"
+            },
+            {
+              "boundingBox": "288,397,56,22",
+              "text": "DOE"
+            }
+          ]
+        },
+        {
+          "boundingBox": "161,429,178,22",
+          "words": [
+            {
+              "boundingBox": "161,430,43,21",
+              "text": "123"
+            },
+            {
+              "boundingBox": "214,430,44,20",
+              "text": "Elm"
+            },
+            {
+              "boundingBox": "268,429,71,22",
+              "text": "Street"
+            }
+          ]
+        },
+        {
+          "boundingBox": "160,461,311,26",
+          "words": [
+            {
+              "boundingBox": "160,461,120,26",
+              "text": "Anywhere"
+            },
+            {
+              "boundingBox": "290,461,56,24",
+              "text": "Else,"
+            },
+            {
+              "boundingBox": "358,461,32,20",
+              "text": "PA"
+            },
+            {
+              "boundingBox": "397,461,74,21",
+              "text": "23456"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "602,36,282,37",
+      "lines": [
+        {
+          "boundingBox": "771,36,113,15",
+          "words": [
+            {
+              "boundingBox": "771,36,37,15",
+              "text": "Safe,"
+            },
+            {
+              "boundingBox": "813,37,71,14",
+              "text": "accurate,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "771,54,78,12",
+          "words": [
+            {
+              "boundingBox": "771,54,44,12",
+              "text": "FAST!"
+            },
+            {
+              "boundingBox": "820,54,29,12",
+              "text": "Use"
+            }
+          ]
+        },
+        {
+          "boundingBox": "602,61,147,12",
+          "words": [
+            {
+              "boundingBox": "602,61,37,12",
+              "text": "OMB"
+            },
+            {
+              "boundingBox": "644,61,23,12",
+              "text": "No."
+            },
+            {
+              "boundingBox": "674,61,75,12",
+              "text": "1545-0008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "993,90,16,230",
+      "lines": [
+        {
+          "boundingBox": "999,90,9,12",
+          "words": [
+            {
+              "boundingBox": "999,90,9,12",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "boundingBox": "999,145,9,12",
+          "words": [
+            {
+              "boundingBox": "999,145,9,12",
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "boundingBox": "999,199,9,12",
+          "words": [
+            {
+              "boundingBox": "999,199,9,12",
+              "text": "6"
+            }
+          ]
+        },
+        {
+          "boundingBox": "999,254,9,12",
+          "words": [
+            {
+              "boundingBox": "999,254,9,12",
+              "text": "8"
+            }
+          ]
+        },
+        {
+          "boundingBox": "993,308,16,12",
+          "words": [
+            {
+              "boundingBox": "993,308,16,12",
+              "text": "10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1021,36,230,287",
+      "lines": [
+        {
+          "boundingBox": "1087,36,164,12",
+          "words": [
+            {
+              "boundingBox": "1087,36,30,12",
+              "text": "Visit"
+            },
+            {
+              "boundingBox": "1121,36,23,12",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1149,36,24,12",
+              "text": "IRS"
+            },
+            {
+              "boundingBox": "1178,36,55,12",
+              "text": "website"
+            },
+            {
+              "boundingBox": "1238,37,13,11",
+              "text": "at"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1088,55,120,15",
+          "words": [
+            {
+              "boundingBox": "1088,55,78,15",
+              "text": "www.ins.go"
+            },
+            {
+              "boundingBox": "1168,55,40,12",
+              "text": "v/efi/e"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1022,90,198,12",
+          "words": [
+            {
+              "boundingBox": "1022,90,52,12",
+              "text": "Federal"
+            },
+            {
+              "boundingBox": "1080,90,51,12",
+              "text": "income"
+            },
+            {
+              "boundingBox": "1135,91,22,11",
+              "text": "tax"
+            },
+            {
+              "boundingBox": "1162,90,58,12",
+              "text": "withheld"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1068,108,105,24",
+          "words": [
+            {
+              "boundingBox": "1068,108,105,24",
+              "text": "6,835.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1022,145,193,15",
+          "words": [
+            {
+              "boundingBox": "1022,145,43,12",
+              "text": "Social"
+            },
+            {
+              "boundingBox": "1070,145,55,15",
+              "text": "security"
+            },
+            {
+              "boundingBox": "1129,146,22,11",
+              "text": "tax"
+            },
+            {
+              "boundingBox": "1156,145,59,12",
+              "text": "withheld"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1075,162,105,24",
+          "words": [
+            {
+              "boundingBox": "1075,162,105,24",
+              "text": "3,100.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1022,199,156,12",
+          "words": [
+            {
+              "boundingBox": "1022,199,66,12",
+              "text": "Medicare"
+            },
+            {
+              "boundingBox": "1092,200,22,11",
+              "text": "tax"
+            },
+            {
+              "boundingBox": "1119,199,59,12",
+              "text": "withheld"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1075,219,82,21",
+          "words": [
+            {
+              "boundingBox": "1075,219,82,21",
+              "text": "725.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1021,254,97,15",
+          "words": [
+            {
+              "boundingBox": "1021,254,66,12",
+              "text": "Allocated"
+            },
+            {
+              "boundingBox": "1092,254,26,15",
+              "text": "tips"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1023,308,174,15",
+          "words": [
+            {
+              "boundingBox": "1023,308,78,15",
+              "text": "Dependent"
+            },
+            {
+              "boundingBox": "1105,311,31,9",
+              "text": "care"
+            },
+            {
+              "boundingBox": "1141,308,56,12",
+              "text": "benefits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "668,363,31,12",
+      "lines": [
+        {
+          "boundingBox": "668,363,31,12",
+          "words": [
+            {
+              "boundingBox": "668,363,31,12",
+              "text": "suff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "715,145,17,339",
+      "lines": [
+        {
+          "boundingBox": "722,145,9,12",
+          "words": [
+            {
+              "boundingBox": "722,145,9,12",
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "boundingBox": "722,199,9,12",
+          "words": [
+            {
+              "boundingBox": "722,199,9,12",
+              "text": "5"
+            }
+          ]
+        },
+        {
+          "boundingBox": "722,254,9,12",
+          "words": [
+            {
+              "boundingBox": "722,254,9,12",
+              "text": "7"
+            }
+          ]
+        },
+        {
+          "boundingBox": "722,308,9,12",
+          "words": [
+            {
+              "boundingBox": "722,308,9,12",
+              "text": "9"
+            }
+          ]
+        },
+        {
+          "boundingBox": "715,363,14,12",
+          "words": [
+            {
+              "boundingBox": "715,363,14,12",
+              "text": "11"
+            }
+          ]
+        },
+        {
+          "boundingBox": "715,415,17,12",
+          "words": [
+            {
+              "boundingBox": "715,415,17,12",
+              "text": "13"
+            }
+          ]
+        },
+        {
+          "boundingBox": "715,472,17,12",
+          "words": [
+            {
+              "boundingBox": "715,472,17,12",
+              "text": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "743,90,214,288",
+      "lines": [
+        {
+          "boundingBox": "743,90,214,15",
+          "words": [
+            {
+              "boundingBox": "743,90,47,15",
+              "text": "Wages,"
+            },
+            {
+              "boundingBox": "795,90,27,15",
+              "text": "tips,"
+            },
+            {
+              "boundingBox": "827,90,34,12",
+              "text": "other"
+            },
+            {
+              "boundingBox": "865,90,92,15",
+              "text": "compensation"
+            }
+          ]
+        },
+        {
+          "boundingBox": "803,108,120,24",
+          "words": [
+            {
+              "boundingBox": "803,108,120,24",
+              "text": "48,500.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "744,145,154,15",
+          "words": [
+            {
+              "boundingBox": "744,145,43,12",
+              "text": "Social"
+            },
+            {
+              "boundingBox": "792,145,56,15",
+              "text": "security"
+            },
+            {
+              "boundingBox": "852,148,46,12",
+              "text": "wages"
+            }
+          ]
+        },
+        {
+          "boundingBox": "803,162,120,24",
+          "words": [
+            {
+              "boundingBox": "803,162,120,24",
+              "text": "50,000.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "745,199,177,15",
+          "words": [
+            {
+              "boundingBox": "745,199,65,12",
+              "text": "Medicare"
+            },
+            {
+              "boundingBox": "815,202,45,12",
+              "text": "wages"
+            },
+            {
+              "boundingBox": "865,199,26,12",
+              "text": "and"
+            },
+            {
+              "boundingBox": "896,199,26,15",
+              "text": "tips"
+            }
+          ]
+        },
+        {
+          "boundingBox": "803,219,120,24",
+          "words": [
+            {
+              "boundingBox": "803,219,120,24",
+              "text": "50,000.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "744,254,134,15",
+          "words": [
+            {
+              "boundingBox": "744,254,43,12",
+              "text": "Social"
+            },
+            {
+              "boundingBox": "792,254,56,15",
+              "text": "security"
+            },
+            {
+              "boundingBox": "852,254,26,15",
+              "text": "tips"
+            }
+          ]
+        },
+        {
+          "boundingBox": "746,363,131,15",
+          "words": [
+            {
+              "boundingBox": "746,363,87,15",
+              "text": "Nonqualified"
+            },
+            {
+              "boundingBox": "839,363,38,15",
+              "text": "plans"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "993,363,224,12",
+      "lines": [
+        {
+          "boundingBox": "993,363,224,12",
+          "words": [
+            {
+              "boundingBox": "993,363,25,12",
+              "text": "12a"
+            },
+            {
+              "boundingBox": "1027,363,28,12",
+              "text": "See"
+            },
+            {
+              "boundingBox": "1060,363,81,12",
+              "text": "instructions"
+            },
+            {
+              "boundingBox": "1146,363,19,12",
+              "text": "for"
+            },
+            {
+              "boundingBox": "1170,363,26,12",
+              "text": "box"
+            },
+            {
+              "boundingBox": "1202,363,15,12",
+              "text": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "741,414,53,70",
+      "lines": [
+        {
+          "boundingBox": "745,414,36,9",
+          "words": [
+            {
+              "boundingBox": "745,414,36,9",
+              "text": "Statuto"
+            }
+          ]
+        },
+        {
+          "boundingBox": "744,426,50,11",
+          "words": [
+            {
+              "boundingBox": "744,426,50,11",
+              "text": "employee"
+            }
+          ]
+        },
+        {
+          "boundingBox": "741,472,40,12",
+          "words": [
+            {
+              "boundingBox": "741,472,40,12",
+              "text": "Other"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "826,414,56,9",
+      "lines": [
+        {
+          "boundingBox": "826,414,56,9",
+          "words": [
+            {
+              "boundingBox": "826,414,19,9",
+              "text": "Reti"
+            },
+            {
+              "boundingBox": "846,415,36,8",
+              "text": "rement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "908,414,56,23",
+      "lines": [
+        {
+          "boundingBox": "908,414,56,12",
+          "words": [
+            {
+              "boundingBox": "908,414,56,12",
+              "text": "Third-party"
+            }
+          ]
+        },
+        {
+          "boundingBox": "908,425,42,12",
+          "words": [
+            {
+              "boundingBox": "908,425,20,9",
+              "text": "Sick"
+            },
+            {
+              "boundingBox": "932,428,18,9",
+              "text": "pay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "43,580,278,42",
+      "lines": [
+        {
+          "boundingBox": "46,580,259,15",
+          "words": [
+            {
+              "boundingBox": "46,580,6,12",
+              "text": "f"
+            },
+            {
+              "boundingBox": "62,580,82,15",
+              "text": "Employee's"
+            },
+            {
+              "boundingBox": "148,580,57,12",
+              "text": "address"
+            },
+            {
+              "boundingBox": "210,580,25,12",
+              "text": "and"
+            },
+            {
+              "boundingBox": "241,580,23,12",
+              "text": "ZIP"
+            },
+            {
+              "boundingBox": "269,580,36,12",
+              "text": "code"
+            }
+          ]
+        },
+        {
+          "boundingBox": "43,607,278,15",
+          "words": [
+            {
+              "boundingBox": "43,607,17,12",
+              "text": "15"
+            },
+            {
+              "boundingBox": "69,609,26,10",
+              "text": "State"
+            },
+            {
+              "boundingBox": "124,607,79,15",
+              "text": "Employer's"
+            },
+            {
+              "boundingBox": "208,608,34,11",
+              "text": "state"
+            },
+            {
+              "boundingBox": "248,607,14,12",
+              "text": "ID"
+            },
+            {
+              "boundingBox": "267,607,54,13",
+              "text": "number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "402,607,17,12",
+      "lines": [
+        {
+          "boundingBox": "402,607,17,12",
+          "words": [
+            {
+              "boundingBox": "402,607,17,12",
+              "text": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "598,607,17,12",
+      "lines": [
+        {
+          "boundingBox": "598,607,17,12",
+          "words": [
+            {
+              "boundingBox": "598,607,17,12",
+              "text": "17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "974,384,138,266",
+      "lines": [
+        {
+          "boundingBox": "1025,384,17,20",
+          "words": [
+            {
+              "boundingBox": "1025,384,17,20",
+              "text": "D"
+            }
+          ]
+        },
+        {
+          "boundingBox": "993,417,26,12",
+          "words": [
+            {
+              "boundingBox": "993,417,26,12",
+              "text": "12b"
+            }
+          ]
+        },
+        {
+          "boundingBox": "993,471,25,12",
+          "words": [
+            {
+              "boundingBox": "993,471,25,12",
+              "text": "12c"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1023,493,15,20",
+          "words": [
+            {
+              "boundingBox": "1023,493,15,20",
+              "text": "p"
+            }
+          ]
+        },
+        {
+          "boundingBox": "992,526,27,12",
+          "words": [
+            {
+              "boundingBox": "992,526,27,12",
+              "text": "12d"
+            }
+          ]
+        },
+        {
+          "boundingBox": "974,607,138,12",
+          "words": [
+            {
+              "boundingBox": "974,607,17,12",
+              "text": "19"
+            },
+            {
+              "boundingBox": "1000,608,35,11",
+              "text": "Local"
+            },
+            {
+              "boundingBox": "1040,608,48,11",
+              "text": "income"
+            },
+            {
+              "boundingBox": "1092,609,20,10",
+              "text": "tax"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1031,629,44,21",
+          "words": [
+            {
+              "boundingBox": "1031,629,44,21",
+              "text": "750"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1121,384,136,238",
+      "lines": [
+        {
+          "boundingBox": "1121,384,103,24",
+          "words": [
+            {
+              "boundingBox": "1121,384,103,24",
+              "text": "1,500.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1122,439,103,24",
+          "words": [
+            {
+              "boundingBox": "1122,439,8,20",
+              "text": "1"
+            },
+            {
+              "boundingBox": "1136,439,89,24",
+              "text": ",ooo.oo"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1122,493,105,24",
+          "words": [
+            {
+              "boundingBox": "1122,493,105,24",
+              "text": "4,800.00"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1153,607,104,15",
+          "words": [
+            {
+              "boundingBox": "1153,607,17,12",
+              "text": "20"
+            },
+            {
+              "boundingBox": "1180,609,42,13",
+              "text": "Locality"
+            },
+            {
+              "boundingBox": "1227,611,30,8",
+              "text": "name"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "428,608,114,45",
+      "lines": [
+        {
+          "boundingBox": "428,608,114,14",
+          "words": [
+            {
+              "boundingBox": "428,608,34,11",
+              "text": "State"
+            },
+            {
+              "boundingBox": "466,611,44,11",
+              "text": "wages,"
+            },
+            {
+              "boundingBox": "515,608,27,14",
+              "text": "tips,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "450,629,82,24",
+          "words": [
+            {
+              "boundingBox": "450,629,82,24",
+              "text": "50,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "547,609,22,10",
+      "lines": [
+        {
+          "boundingBox": "547,609,22,10",
+          "words": [
+            {
+              "boundingBox": "547,609,22,10",
+              "text": "etc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "624,607,118,46",
+      "lines": [
+        {
+          "boundingBox": "624,607,118,12",
+          "words": [
+            {
+              "boundingBox": "624,607,37,12",
+              "text": "State"
+            },
+            {
+              "boundingBox": "666,607,50,12",
+              "text": "income"
+            },
+            {
+              "boundingBox": "721,608,21,11",
+              "text": "tax"
+            }
+          ]
+        },
+        {
+          "boundingBox": "654,629,66,24",
+          "words": [
+            {
+              "boundingBox": "654,629,8,20",
+              "text": "1"
+            },
+            {
+              "boundingBox": "669,629,51,24",
+              "text": ",535"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "778,607,17,12",
+      "lines": [
+        {
+          "boundingBox": "778,607,17,12",
+          "words": [
+            {
+              "boundingBox": "778,607,17,12",
+              "text": "18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "804,608,142,45",
+      "lines": [
+        {
+          "boundingBox": "804,608,142,14",
+          "words": [
+            {
+              "boundingBox": "804,608,34,11",
+              "text": "Local"
+            },
+            {
+              "boundingBox": "842,611,45,11",
+              "text": "wages,"
+            },
+            {
+              "boundingBox": "892,608,26,14",
+              "text": "tips,"
+            },
+            {
+              "boundingBox": "923,609,23,10",
+              "text": "etc."
+            }
+          ]
+        },
+        {
+          "boundingBox": "819,629,82,24",
+          "words": [
+            {
+              "boundingBox": "819,629,82,24",
+              "text": "50,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "36,756,39,12",
+      "lines": [
+        {
+          "boundingBox": "36,756,39,12",
+          "words": [
+            {
+              "boundingBox": "36,756,39,12",
+              "text": "Form"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "168,629,187,136",
+      "lines": [
+        {
+          "boundingBox": "168,629,58,21",
+          "words": [
+            {
+              "boundingBox": "168,629,58,21",
+              "text": "1235"
+            }
+          ]
+        },
+        {
+          "boundingBox": "196,723,159,22",
+          "words": [
+            {
+              "boundingBox": "196,723,63,22",
+              "text": "Wage"
+            },
+            {
+              "boundingBox": "267,723,39,18",
+              "text": "and"
+            },
+            {
+              "boundingBox": "315,723,40,18",
+              "text": "Tax"
+            }
+          ]
+        },
+        {
+          "boundingBox": "196,747,117,18",
+          "words": [
+            {
+              "boundingBox": "196,747,117,18",
+              "text": "Statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "874,725,386,16",
+      "lines": [
+        {
+          "boundingBox": "874,725,386,16",
+          "words": [
+            {
+              "boundingBox": "874,725,83,15",
+              "text": "Department"
+            },
+            {
+              "boundingBox": "962,725,14,12",
+              "text": "of"
+            },
+            {
+              "boundingBox": "980,725,22,12",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1006,725,130,16",
+              "text": "Treasury—lntemal"
+            },
+            {
+              "boundingBox": "1142,725,61,12",
+              "text": "Revenue"
+            },
+            {
+              "boundingBox": "1208,725,52,12",
+              "text": "Service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "35,782,541,40",
+      "lines": [
+        {
+          "boundingBox": "36,782,520,17",
+          "words": [
+            {
+              "boundingBox": "36,782,45,17",
+              "text": "copy"
+            },
+            {
+              "boundingBox": "86,782,52,14",
+              "text": "B—To"
+            },
+            {
+              "boundingBox": "144,782,23,14",
+              "text": "Be"
+            },
+            {
+              "boundingBox": "173,782,40,14",
+              "text": "Filed"
+            },
+            {
+              "boundingBox": "218,782,39,14",
+              "text": "With"
+            },
+            {
+              "boundingBox": "264,782,99,17",
+              "text": "Employee's"
+            },
+            {
+              "boundingBox": "368,782,84,14",
+              "text": "FEDERAL"
+            },
+            {
+              "boundingBox": "456,782,32,14",
+              "text": "Tax"
+            },
+            {
+              "boundingBox": "494,782,62,14",
+              "text": "Return."
+            }
+          ]
+        },
+        {
+          "boundingBox": "35,804,541,18",
+          "words": [
+            {
+              "boundingBox": "35,804,34,14",
+              "text": "This"
+            },
+            {
+              "boundingBox": "75,804,90,14",
+              "text": "information"
+            },
+            {
+              "boundingBox": "171,804,12,14",
+              "text": "is"
+            },
+            {
+              "boundingBox": "189,804,44,18",
+              "text": "being"
+            },
+            {
+              "boundingBox": "239,804,75,14",
+              "text": "furnished"
+            },
+            {
+              "boundingBox": "319,805,16,13",
+              "text": "to"
+            },
+            {
+              "boundingBox": "340,804,26,14",
+              "text": "the"
+            },
+            {
+              "boundingBox": "372,804,58,15",
+              "text": "Internal"
+            },
+            {
+              "boundingBox": "437,804,70,14",
+              "text": "Revenue"
+            },
+            {
+              "boundingBox": "512,804,64,14",
+              "text": "Service."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
